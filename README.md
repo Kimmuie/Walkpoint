@@ -1,3 +1,1 @@
-# Walkpoint-prototype
-
-hi
+Walkpoint This is the application that was written with Swift in Swift Hackathon 1st. My team name is Prakapongsamphorcure it means canned fish with three chefs, Opek Sitthinon Kik Attichet and me Kim Pranchayut with Teacher Nattee.
