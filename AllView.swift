@@ -70,6 +70,7 @@ var evenRewards: [Reward] {
 var groupJoin: [Group] = [
     Group(name:"Bangkok Christian College",token: 5, usage: true, image: "img.BCC"),
     Group(name:"Siam Paragon",token: 32, usage: false, image: "img.SIAM"),
+    Group(name:"BTS Sky Train",token: 14, usage: false, image: "img.BTS"),
 ]
 struct AllView: View {
     @State var tokenAmount: Int = 5
