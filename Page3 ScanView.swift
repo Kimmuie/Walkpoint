@@ -71,9 +71,12 @@ struct ScanView: View {
                                         .foregroundStyle(.black)
                                 }
                             }.padding(13)
-                            Text("Organization Name")
-                                .foregroundColor(.white)
-                                .fontWeight(.bold)
+                            ForEach(groupJoin.filter { $0.usage }, id: \.name) { group in
+                                Text(group.name)
+                                    .foregroundColor(.white)
+                                    .fontWeight(.bold)
+                                    .padding(.top, 10)
+                            }
                         }.offset(y: -50)
                     }
                     Spacer()
