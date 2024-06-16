@@ -51,9 +51,12 @@ struct HomeView: View {
                                     .foregroundStyle(.black)
                             }
                         }.padding(13)
-                        Text("Organization Name")
-                            .foregroundColor(.white)
-                            .fontWeight(.bold)
+                        ForEach(groupJoin.filter { $0.usage }, id: \.name) { group in
+                            Text(group.name)
+                                .foregroundColor(.white)
+                                .fontWeight(.bold)
+                                .padding(.top, 10)
+                        }
                     }.offset(y: 30)
                 }
                 RoundedRectangle(cornerRadius: 50)
@@ -170,7 +173,7 @@ struct HomeView: View {
                         historyOwned.insert(Owned(place: "Bookstore",discount: 10, type: "THB",price : 5), at: 0)
                 }
             } message: {
-                Text("Please click confirm if youu want to switch groups")
+                Text("Please click confirm if you want to switch groups")
             }
         }
     }
