@@ -8,7 +8,7 @@ struct SettingView: View {
     @Environment(\.modelContext) var modelContext
     @Binding var tokenAmount: Int
     @State  var isShowingScanner = false
-        
+    let groupAmount = groupJoin.count
     var codeGenerator : String = "011011110001"
     var tokenOne : Int = 1
     var Menu: [Setting]{
@@ -64,7 +64,7 @@ struct SettingView: View {
                                         }
                                     }
                                 }
-                                Text("\(tokenAmount) Groups | \(tokenAmount) Scanned")
+                                Text("\(groupAmount) Groups | \(tokenAmount) Scanned")
                                     .foregroundColor(.white)
                                     .fontWeight(.medium)
                                     .font(.system(size: 15))
