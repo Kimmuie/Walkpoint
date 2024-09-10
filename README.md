@@ -10,5 +10,4 @@ I let you guys see the interface so it might make you guys better understand the
 **Used Language/Tools**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift"width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"width="40" height="40"/>&nbsp;
 </div>  
