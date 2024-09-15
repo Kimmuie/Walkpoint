@@ -25,15 +25,15 @@ I let you guys see the interface so it might make you guys better understand the
 
 ### Flowchart 
 <div>
-  <img src="./illustration/Flowchart.jpeg"  title="Flowchart"width="400" height="400"/>
+  <img src="./Simulation/Flowchart.jpeg"  title="Flowchart"width="400" height="400"/>
 </div>
 <br>  
 
 ### Application Page Interface (XCode Simulator)
 <div>
-  <img src="./Simulation/Page 1 Home.png"  title="UI" height="250"/>
-  <img src="./Simulation/Page 2 Reward.png"  title="UI" height="250"/>
-  <img src="./Simulation/Page 3 Scanner.png"  title="UI" height="250"/>
+  <img src="./Simulation/Page 1 Home.png"  title="UI" height="280"/>
+  <img src="./Simulation/Page 2 Reward.png"  title="UI" height="280"/>
+  <img src="./Simulation/Page 3 Scanner.png"  title="UI" height="280"/>
   <img src="./Simulation/Page 4 History - Owned.png"  title="UI" height="250"/>
   <img src="./Simulation/Page 5 Setting.png"  title="UI" height="250"/>
   <img src="./Simulation/Receipt.png"  title="UI" height="250"/>
