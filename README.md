@@ -1,4 +1,4 @@
-# Walkpoint
+# Walkpoint (Prototype)
 
 ### What is Walkpoint?
 **Walkpoint** is the application that was written with Swift in Swift Hackathon 1st. My team name is Prakapongsamphorcure it means "Canned fish with three chefs", Opek Sitthinon, Kik Attichet, Kim Pranchayut and Teacher Nattee. Objective of this application is to decrease the number of people using elevators and other forms of transportation to save electricity and fossil fuels by walking.
