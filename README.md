@@ -29,11 +29,19 @@ I let you guys see the interface so it might make you guys better understand the
 </div>
 <br>  
 
-### Application Interface (XCode Simulator)
+### Application Page Interface (XCode Simulator)
 <div>
-  <img src="./illustration/UI1.png"  title="UI" height="230"/>
-  <img src="./illustration/UI2.png"  title="UI" height="230"/>
-  <img src="./illustration/UI3.png"  title="UI" height="230"/>
-  <img src="./illustration/UI4.png"  title="UI" height="230"/>
+  <img src="./Simulation/Page 1 Home.png"  title="UI" height="230"/>
+  <img src="./Simulation/Page 2 Reward.png"  title="UI" height="230"/>
+  <img src="./Simulation/Page 3 Scanner.png"  title="UI" height="230"/>
+  <img src="./Simulation/Page 4 History - Owned.png"  title="UI" height="230"/>
+  <img src="./Simulation/Page 5 Setting.png"  title="UI" height="230"/>
+  <img src="./Simulation/Receipt.png"  title="UI" height="230"/>
 </div>
 
+### Application Page Usage (XCode Simulator)
+<div>
+  <img src="./Simulation/Page 1 Home - Confirmation.png"  title="UI" height="230"/>
+  <img src="./Simulation/Page 2 Reward - Confirmation.png"  title="UI" height="230"/>
+  <img src="./Simulation/Page 2 Reward - Failed.png"  title="UI" height="230"/>
+</div>
