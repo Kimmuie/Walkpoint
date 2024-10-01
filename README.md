@@ -21,13 +21,7 @@ This application let organizations or anyone can create a QR code and put it any
 </div>
 <br>  
 
-I let you guys see the interface so it might make you guys better understand the method, but this is just prototype It might have a good frontend, but lots of the backend is not finished yet.
-
-### Flowchart 
-<div>
-  <img src="./Simulation/Flowchart.jpeg"  title="Flowchart"width="400" height="400"/>
-</div>
-<br>  
+I let you guys see the interface so it might make you guys better understand the method, but this is just prototype.
 
 ### Application Page Interface (XCode Simulator)
 <div>
